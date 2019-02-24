@@ -4,11 +4,11 @@
 # OOP
 ## Lesson 1
 This is first project for course of OOP from Dmitrii KHorkov.
+## Download Project
+If you want download project as a .zip-file, please [click here](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip).
 ## Authors
 * **Mikhail Pyrev** - *Main work* - [vastXgithub](https://github.com/vastXgithub)
 
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -41,5 +41,7 @@ This is first project for course of OOP from Dmitrii KHorkov.
 # ООП
 ## Урок 1
 Это первый проект по курсу ООП от Дмитрия Хорькова.
+## Загрузить проект
+Если вы хотите загрузить проект как .zip-файл, пожалуйста [нажмите сюда](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip).
 ## Авторы
 * **Михаил Пырьев** - *Основная работа* - [vastXgithub](https://github.com/vastXgithub)
