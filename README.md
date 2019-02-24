@@ -4,6 +4,10 @@
 # OOP
 ## Lesson 1
 This is first project for course of OOP from Dmitrii KHorkov.
+### Try program
+If you want to try my program, you can [download](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip) project.
+Next, you must open directory [OOP_lesson_1/Lesson1/Win32/Debug/](https://github.com/vastXgithub/OOP_lesson_1/tree/master/Lesson1/Win32/Debug) on your local version (that is what you downloaded) and double-click on console.exe. **Profit!!!**
+> Some anti-viruses can make alert :unamused:
 ## Download Project
 If you want download project as a .zip-file, please [click here](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip).
 ## Authors
@@ -41,6 +45,10 @@ If you want download project as a .zip-file, please [click here](https://github.
 # ООП
 ## Урок 1
 Это первый проект по курсу ООП от Дмитрия Хорькова.
+### Попробовать программу
+Если вы хотите попробовать мою программу, вы можете [скачать](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip) проект.
+Затем вы должны открыть каталог [OOP_lesson_1/Lesson1/Win32/Debug/](https://github.com/vastXgithub/OOP_lesson_1/tree/master/Lesson1/Win32/Debug) в вашей локальной версии (это то, что вы загрузили) и дважды щелкните на console.exe. **Профит!!!**
+> Некоторые антивирусы могут ругаться :unamused:
 ## Загрузить проект
 Если вы хотите загрузить проект как .zip-файл, пожалуйста [нажмите сюда](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip).
 ## Авторы
