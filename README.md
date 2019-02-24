@@ -32,12 +32,6 @@ If you want download project as a .zip-file, please [click here](https://github.
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 # ООП
 ## Урок 1
