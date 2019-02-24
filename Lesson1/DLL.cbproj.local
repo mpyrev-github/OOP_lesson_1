@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.466,D:\Docs\Embarcadero\Studio\Projects\File2.cpp=D:\Docs\Embarcadero\Studio\Projects\Lesson1\File2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,=D:\Docs\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,D:\Docs\Embarcadero\Studio\Projects\Project2PCH1.h=D:\Docs\Embarcadero\Studio\Projects\Lesson1\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=D:\Docs\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\Docs\Embarcadero\Studio\Projects\Lesson1\Project2.cbproj=D:\Docs\Embarcadero\Studio\Projects\Lesson1\DLL.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,D:\Docs\Embarcadero\Studio\Projects\Project2.cbproj=D:\Docs\Embarcadero\Studio\Projects\Lesson1\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.165,=D:\Docs\Embarcadero\Studio\Projects\Lesson1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.188,D:\Docs\Embarcadero\Studio\Projects\Lesson1\File2.cpp=D:\Docs\Embarcadero\Studio\Projects\Lesson1\dll.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,D:\Docs\Embarcadero\Studio\Projects\Lesson1\Project2PCH1.h=D:\Docs\Embarcadero\Studio\Projects\Lesson1\DLLPCH1.h</Transaction>
+    <Transaction>2019.02.24 15:48:29.760,D:\Docs\Embarcadero\Studio\Projects\Lesson1\dll.cpp=D:\Docs\Embarcadero\Studio\Projects\Lesson1\dll.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
