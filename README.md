@@ -17,6 +17,26 @@ This is first project for course of OOP from Dmitrii KHorkov.
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # ООП
 ## Урок 1
