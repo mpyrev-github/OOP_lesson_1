@@ -1,0 +1,2 @@
+_declspec(dllexport) void name();
+_declspec(dllexport) void group();

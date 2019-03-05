@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{49A04804-537A-4AAF-98B8-38E868E23BEE}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="console_app.cbproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="two_func.cbproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="console_app">
+        <MSBuild Projects="console_app.cbproj"/>
+    </Target>
+    <Target Name="console_app:Clean">
+        <MSBuild Projects="console_app.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="console_app:Make">
+        <MSBuild Projects="console_app.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="two_func">
+        <MSBuild Projects="two_func.cbproj"/>
+    </Target>
+    <Target Name="two_func:Clean">
+        <MSBuild Projects="two_func.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="two_func:Make">
+        <MSBuild Projects="two_func.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="console_app;two_func"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="console_app:Clean;two_func:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="console_app:Make;two_func:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
