@@ -35,7 +35,7 @@ If you want download project as a .zip-file, please [click here](https://github.
 
 # ООП
 ## Урок 1
-Это первый проект по курсу ООП от Дмитрия Хорькова.
+Это первый проект по курсу ООП от Дмитрия Хорькова.<br />В этом проекте мы создали первую DLL-библиотеку (Dynamic Link Library) в RAD Studio.
 ### Попробовать программу
 Если вы хотите попробовать мою программу, вы можете [скачать](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip) проект.
 Затем вы должны открыть каталог [OOP_lesson_1/Lesson1/Win32/Debug/](https://github.com/vastXgithub/OOP_lesson_1/tree/master/Lesson1/Win32/Debug) в вашей локальной версии (это то, что вы загрузили) и дважды щелкните на console.exe. **Профит!!!**
