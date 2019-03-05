@@ -3,7 +3,7 @@
 * [Русская версия](https://github.com/vastXgithub/OOP_lesson_1/blob/master/README.md#%D0%BE%D0%BE%D0%BF)
 # OOP
 ## Lesson 1
-This is first project for course of OOP from Dmitrii KHorkov.
+This is first project for course of OOP from Dmitrii KHorkov.<br />At this project we have been made the first DLL(Dynamic Link Library) on RAD Studio.
 ### Try program
 If you want to try my program, you can [download](https://github.com/vastXgithub/OOP_lesson_1/archive/master.zip) project.
 Next, you must open directory [OOP_lesson_1/Lesson1/Win32/Debug/](https://github.com/vastXgithub/OOP_lesson_1/tree/master/Lesson1/Win32/Debug) on your local version (that is what you downloaded) and double-click on console.exe. **Profit!!!**
